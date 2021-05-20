@@ -1,0 +1,16 @@
+
+.works > h1{
+  font-size: 100%;
+  text-align: center;
+}
+
+.works > #click{
+  background-color:rgb(255, 0, 0);
+  color: #ffffff;
+  font-size: 150%;
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
